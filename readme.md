@@ -28,5 +28,5 @@ You'll get improved statistics on your profile views, your followers, repositori
 [Ÿ HŸPE]: https://yhype.me
 [GitHub ]: https://github.com/mkseey
 ![trophy](https://github-profile-trophy.vercel.app/?username=mkseey)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kattni)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mkseey)
 
