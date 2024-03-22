@@ -29,4 +29,4 @@ You'll get improved statistics on your profile views, your followers, repositori
 [GitHub ]: https://github.com/mkseey
 ![trophy](https://github-profile-trophy.vercel.app/?username=mkseey)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mkseey)
-
+![kartik GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mkseey&show_icons=true)
